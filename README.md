@@ -45,8 +45,8 @@ pip install -r requirements.txt
 ## How to Run
 
 1. Clone this repository:
-   bash
-   git clone https://github.com/yourusername/demand forecasting model.git
+   bash[
+   git clone https://github.com/tharun3030/Demand-Forecasting-Model.git
    cd demand-forecasting-model
    
 
