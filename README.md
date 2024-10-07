@@ -46,8 +46,8 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    bash
-   git clone https://github.com/yourusername/soothsayer-analytics-assignment.git
-   cd soothsayer-analytics-assignment
+   git clone https://github.com/yourusername/demand forecasting model.git
+   cd demand-forecasting-model
    
 
 2. Install the dependencies:
